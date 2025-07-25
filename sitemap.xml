@@ -1,3 +1,8 @@
-User-agent: *
-Allow: /
-Sitemap: https://trustlocalid.online/sitemap.xml
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://riandychndr21.github.io/dower88-site/</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
